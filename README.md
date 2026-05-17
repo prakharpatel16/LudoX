@@ -1,4 +1,4 @@
-# MERN Ludo
+# LudoX
 
 A real-time multiplayer Ludo baseline built with:
 
